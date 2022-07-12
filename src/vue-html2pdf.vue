@@ -8,7 +8,7 @@
 			}"
 		>
 			<section
-				class="content-wrapper"
+				class="content-pdf-wrapper"
 				:style="`width: ${pdfContentWidth};`"
 				ref="pdfContent"
 			>
